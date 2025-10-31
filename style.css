@@ -22,12 +22,12 @@ a {
 /* --- ESTILO PARA LOS ICONOS SOCIALES --- */
 /* Esta regla es más específica y anulará a Bootstrap */
 .bio a .fab, .bio a .fas {
-  color: rgb(128, 0, 0); /* Tu color rojo oscuro */
+  color: rgb(28, 0, 128); /* Tu color rojo oscuro */
 }
 
 /* --- ESTILO PARA LOS LINKS DE TEXTO (publicaciones, email, CV) --- */
 .bio a, .container-fluid a {
-  color: rgb(128, 0, 0); /* Tu color rojo oscuro */
+  color: rgb(28, 0, 128); /* Tu color rojo oscuro */
 }
 
 /* --- EFECTO HOVER: CÓMO SE VERÁN AL PASAR EL MOUSE POR ENCIMA --- */
@@ -39,12 +39,12 @@ a {
 
 /* --- ESTILO PARA LOS LINKS DE TEXTO DEL FOOTER (email, CV) --- */
 .footer-links a {
-  color: rgb(128, 0, 0) !important; /* Tu color rojo oscuro, ¡ahora con máxima prioridad! */
+  color: rgb(28, 0, 128) !important; /* Tu color rojo oscuro, ¡ahora con máxima prioridad! */
 }
 
 /* Y no olvidemos el efecto hover para estos links también */
 .footer-links a:hover {
-  color: rgb(204, 0, 0) !important; /* Rojo brillante, con máxima prioridad */
+  color: rgb(0, 10, 204) !important; /* Rojo brillante, con máxima prioridad */
 }
 
 nav a:link {color: white;text-decoration: none}
