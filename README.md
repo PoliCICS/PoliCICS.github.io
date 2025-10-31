@@ -1,3 +1,3 @@
-Repository for my personal website. Nothing fancy, just the basics.
+Repository for PoliCICS webpage. V0.1
 
-[aoliveram.cl](https://aoliveram.cl)
+[policics.github.io](https://policics.github.io)
