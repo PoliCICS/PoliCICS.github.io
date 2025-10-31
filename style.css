@@ -86,13 +86,13 @@ img {
 }
 
 /* Este bloque da estilo a la imagen de la red en sí. */
-.network-svg {
+.network-png {
   width: 100%;
   /* AJUSTA AQUÍ: Cambia '350px' para hacer la red más grande o más pequeña. */
-  max-width: 400px;
+  max-width: 900px;
   min-width: 100px;
   /* AJUSTA AQUÍ: Cambia '0.6' (60%) para hacerla más o menos transparente. */
-  opacity: 0.5;
+  opacity: 0.1;
   /* AJUSTA AQUÍ: Cambia los valores para modificar la sombra. */
-  filter: drop-shadow(2px 2px 2px #444); 
+  /* filter: drop-shadow(2px 2px 2px #444); 
 }
